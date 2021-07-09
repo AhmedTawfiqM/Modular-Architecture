@@ -8,7 +8,7 @@
 
 
 
-- [ ] the project contain all integration to start yout Project with Clean Architecture  
+- [ ] the project contain all integration to start your Project with Clean Architecture  
 
 > Integration Details
 - Union Architecture (Clean Architecture)
@@ -27,12 +27,36 @@
 - SharedPref Abstraction
 
 
-# Steps
+# Setup
 
 1. clone the project in android studio
 2. change applicationID (packageName ) as you like
 3. change the project name from setting.gradle like this rootProject.name = "Modular"
 4. may need to sync , clean then rebuild the project.
+
+# why Modular Architecture ?
+- the project is Clean , Testable , Maintainable and changable
+- High quality App with high cohesion and low coupling
+- Build Time 
+- Development Can be Divided
+- Readable Programs
+- Programming Errors are Easy to Detect
+- Allows Re-Use of Codes
+- Improves Manageability
+- Collaboration
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 check the sample [News App](https://pages.github.com/)
 
