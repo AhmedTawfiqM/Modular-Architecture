@@ -11,17 +11,20 @@
 - [ ] the project contain all integration to start yout Project with Clean Architecture  
 
 > Integration Details
-- Clean Architecture
-- Dependency Injection
-- BaseViewModel
-- Retrofit Builder
-- Interceptor Network
-- Build Variant
+- Union Architecture (Clean Architecture)
 - Cashing Integration
+- Dependency Injection
+- Build Variant
 - buildSrc  (Gradle Managment)
-- SharedPref Abstraction
+
+- AppRequester login for asyncronous tasks
 - BaseActivity 
 - BaseFragment
+- BaseViewModel
+
+- Retrofit Builder
+- Interceptor Network
+- SharedPref Abstraction
 
 
 # Steps
