@@ -24,12 +24,12 @@
 - BaseFragment
 
 
-#Steps
+# Steps
 
-1- clone the project in android studio
-2- change applicationID (packageName ) as you like
-3- change the project name from setting.gradle like this rootProject.name = "Modular"
-4- may need to sync , clean then rebuild the project.
+1. clone the project in android studio
+2. change applicationID (packageName ) as you like
+3. change the project name from setting.gradle like this rootProject.name = "Modular"
+4. may need to sync , clean then rebuild the project.
 
 check the sample [News App](https://pages.github.com/)
 
