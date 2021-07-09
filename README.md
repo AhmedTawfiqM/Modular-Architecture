@@ -9,6 +9,7 @@
 
 
 - [ ] the project contain all integration to start your Project with Clean Architecture  
+# Table of Contents
 
 > Integration Details
 - Union Architecture (Clean Architecture)
@@ -27,7 +28,7 @@
 - SharedPref Abstraction
 
 
-# Setup
+# Installation
 
 1. clone the project in android studio
 2. change applicationID (packageName ) as you like
@@ -46,18 +47,7 @@
 - Collaboration
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+## Usage
 check the sample [News App](https://pages.github.com/)
 
 
