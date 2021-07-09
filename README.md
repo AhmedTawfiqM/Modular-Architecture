@@ -1,8 +1,8 @@
 # Modular-Architecture
 
 
-###Modular Arhitecture ProType
-##clone the project and build your project to be Clean , Testable , Maintainable 
+### Modular Arhitecture ProType
+## clone the project and build your project to be Clean , Testable , Maintainable 
 
 
 - Clean Architecture
