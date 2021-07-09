@@ -5,11 +5,6 @@
 
 ### clone the project and build your project to be Clean , Testable , Maintainable and changable
 
-![alt text](https://github.com/AhmedTawfiqM/Modular-Architecture//union.jpg?raw=true)
-![Alt text](union.PNG)
-
-
-
 
 - [ ] the project contain all integration to start your Project with Clean Architecture  
 # Table of Contents
@@ -30,6 +25,7 @@
 - Interceptor Network
 - SharedPref Abstraction
 
+![Alt text](union.PNG)
 
 # Installation
 
@@ -39,6 +35,9 @@
 4. may need to sync , clean then rebuild the project.
 
 # why Modular Architecture ?
+
+![Alt text](modular.PNG)
+
 - the project is Clean , Testable , Maintainable and changable
 - High quality App with high cohesion and low coupling
 - Build Time 
