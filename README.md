@@ -36,7 +36,7 @@
 
 # why Modular Architecture ?
 
-![Alt text](modular.PNG)
+![Alt text](modules.PNG)
 
 - the project is Clean , Testable , Maintainable and changable
 - High quality App with high cohesion and low coupling
@@ -48,6 +48,7 @@
 - Improves Manageability
 - Collaboration
 
+check my last lecture about Clean architecture and Clean Code [Lecture](https://www.youtube.com/watch?v=kFll5whDTJc&t=759s&ab_channel=AHMEDTAWFIQ)
 
 ## Usage
 check the sample [News App](https://pages.github.com/)
