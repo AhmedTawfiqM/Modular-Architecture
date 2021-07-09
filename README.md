@@ -51,6 +51,6 @@
 check my last lecture about Clean architecture and Clean Code [Lecture](https://www.youtube.com/watch?v=kFll5whDTJc&t=759s&ab_channel=AHMEDTAWFIQ)
 
 ## Usage
-check the sample [News App](https://pages.github.com/)
+check the sample [News App](https://github.com/AhmedTawfiqM/News-App-Modular-)
 
 
