@@ -38,7 +38,7 @@
 
 ![Alt text](modules.PNG)
 
-- the project is Clean , Testable , Maintainable and changable
+- The Project is Clean , Testable , Maintainable and changable
 - High quality App with high cohesion and low coupling
 - Build Time 
 - Development Can be Divided
