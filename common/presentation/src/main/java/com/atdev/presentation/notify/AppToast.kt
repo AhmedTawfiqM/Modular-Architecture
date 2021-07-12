@@ -14,7 +14,7 @@ class AppToast {
         Toast.makeText(context, msg, Toast.LENGTH_SHORT).show()
     }
 
-    fun showLong(context: Context, msg: String,duration: Int) {
+    fun show(context: Context, msg: String,duration: Int) {
         Toast.makeText(context, msg, duration).show()
     }
 }
